@@ -1,0 +1,29 @@
+{
+  "name": "lettable-operators",
+  "version": "0.0.1",
+  "description": "Understanding implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avine/lettable-operators.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "Stéphane Francel <contact@avine.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avine/lettable-operators/issues"
+  },
+  "homepage": "https://github.com/avine/lettable-operators#readme",
+  "dependencies": {
+    "eslint": "^4.15.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
