@@ -8,11 +8,11 @@ class Value {
     this.value = value;
   }
 
+  // Some basic operations
   more(value) {
     this.value += value;
     return this;
   }
-
   less(value) {
     this.value -= value;
     return this;
